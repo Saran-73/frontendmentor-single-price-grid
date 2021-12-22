@@ -87,7 +87,7 @@ ul{
 }
 .second-card{
     border-radius:0 0 0 10px;
-    padding:1em 2.5em 0.5em;
+    padding:1em 2.5em 1em;
 }
 a{
     padding:1.2em;
@@ -96,7 +96,7 @@ span{
     font-size:2.45vw;
 }
 .third-card{
-    padding:1em 2em 0.5em;
+    padding:1em 2em 1em;
     border-radius:0 0 10px;
 }
 ul{
